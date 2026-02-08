@@ -1,19 +1,3 @@
-# ✅ OpenClaw NVIDIA + Kimi K2.5 (FIXED CONFIG)
-
-This configuration correctly runs **Kimi K2.5 via NVIDIA API**
-using OpenClaw `2026.2.6-3`.
-
----
-
-## 🔑 Environment Variables (REQUIRED)
-
-Do **NOT** hardcode secrets in JSON.
-
-```env
-NVIDIA_API_KEY=`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`
-OPENCLAW_GATEWAY_TOKEN=f5174d30480ff648aa13452f64cf85ef850c0f23386dc351```
-```
-🧠 Corrected `openclaw.json`
 ```{
   "meta": {
     "lastTouchedAt": "2026-02-08T10:05:00Z",
@@ -31,12 +15,12 @@ OPENCLAW_GATEWAY_TOKEN=f5174d30480ff648aa13452f64cf85ef850c0f23386dc351```
     "providers": {
       "nvidia": {
         "baseUrl": "https://integrate.api.nvidia.com/v1",
-        "apiKey": "${NVIDIA_API_KEY}",
+        "apiKey": "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",
         "api": "openai-completions",
         "models": [
           {
             "id": "moonshotai/kimi-k2.5",
-            "name": "Kimi K2.5",
+            "name": "Kimi K2.5 (NVIDIA)",
             "reasoning": false,
             "input": ["text"],
             "cost": {
@@ -49,6 +33,17 @@ OPENCLAW_GATEWAY_TOKEN=f5174d30480ff648aa13452f64cf85ef850c0f23386dc351```
             "maxTokens": 8192
           }
         ]
+      },
+
+      "ollama": {
+        "models": [
+          {
+            "id": "kimi:2.5",
+            "name": "Kimi 2.5 (Ollama)",
+            "contextWindow": 200000,
+            "maxTokens": 8192
+          }
+        ]
       }
     }
   },
@@ -57,15 +52,12 @@ OPENCLAW_GATEWAY_TOKEN=f5174d30480ff648aa13452f64cf85ef850c0f23386dc351```
     "defaults": {
       "model": {
         "primary": "nvidia/moonshotai/kimi-k2.5",
-        "fallbacks": ["gpt", "gemini", "xai", "sonnet"]
+        "fallbacks": ["ollama/kimi:2.5"]
       },
 
       "models": {
-        "anthropic/claude-sonnet-4-5": { "alias": "sonnet" },
-        "openai/gpt-5.2": { "alias": "gpt" },
-        "google/gemini-3-flash-preview": { "alias": "gemini" },
-        "xai/grok-4-1-fast-reasoning": { "alias": "xai" },
-        "nvidia/moonshotai/kimi-k2.5": { "alias": "kimi" }
+        "nvidia/moonshotai/kimi-k2.5": { "alias": "kimi" },
+        "ollama/kimi:2.5": { "alias": "kimi-local" }
       },
 
       "maxConcurrent": 4,
@@ -105,5 +97,5 @@ OPENCLAW_GATEWAY_TOKEN=f5174d30480ff648aa13452f64cf85ef850c0f23386dc351```
     }
   }
 }
+
 ```
-[[new config]]
