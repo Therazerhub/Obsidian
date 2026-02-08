@@ -1,0 +1,1 @@
+'''https://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@github.com/Therazerhub/Obsidian.git'''
