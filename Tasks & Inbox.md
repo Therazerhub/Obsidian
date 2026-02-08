@@ -13,3 +13,7 @@
 
 **[obsidian-vault](https://github.com/Therazerhub/obsidian-vault)**
 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
+
+
+openroutuer api 
+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
