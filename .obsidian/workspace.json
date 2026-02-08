@@ -62,12 +62,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Lilly Setup.md",
+                "file": "Tasks & Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lilly Setup"
+              "title": "Tasks & Inbox"
             }
           }
         ],
@@ -245,14 +245,14 @@
   },
   "active": "3f61c45ea083a08d",
   "lastOpenFiles": [
+    "new config.md",
+    "README.md",
+    "Tasks & Inbox.md",
+    "Projects/Lilly Setup.md",
     "Projects/local ai Voice clone.md",
     "Git Vault Setup (Template).md",
     "Looking for Free AI models.md",
-    "new config.md",
-    "Projects/Lilly Setup.md",
     "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
-    "Tasks & Inbox.md",
-    "README.md",
     "Projects/Ai Influencer.md",
     "_secure/Git cloning setup.md",
     "_Archive/raw jason file.md",
