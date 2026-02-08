@@ -83,17 +83,16 @@
       "token": "f5174d30480ff648aa13452f64cf85ef850c0f23386dc351"
     }
   },
-
+"channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "botToken": "8062041399:AAFDZfCG90wZpg1assVqM9__zdX_ljTTTXY"
+    }
+  },
   "plugins": {
     "entries": {
-      "whatsapp": { "enabled": true },
-      "discord": { "enabled": true },
-      "telegram": { "enabled": true },
-      "slack": { "enabled": true },
-      "nostr": { "enabled": true },
-      "googlechat": { "enabled": true },
-      "imessage": { "enabled": false },
-      "signal": { "enabled": false }
+      "telegram": { "enabled": true }
     }
   }
 }
