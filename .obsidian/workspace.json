@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Archive/raw jason file.md",
+                "file": "Projects/Ai Influencer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "raw jason file"
+              "title": "Ai Influencer"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "3b079ae81395c607",
   "lastOpenFiles": [
+    "_Archive/raw jason file.md",
     "_Archive/fond something.md",
     "_Archive/clwadbot.md",
     "ComfyUI.md",
@@ -205,7 +206,6 @@
     "Projects/local ai Voice clone.md",
     "Projects/Lilly Setup.md",
     "Projects/Ai Influencer.md",
-    "_Archive/raw jason file.md",
     "Daily Notes/2026-02-07.md",
     "Daily Notes/2026-02-06.md",
     "Daily Notes/2026-02-05.md",
