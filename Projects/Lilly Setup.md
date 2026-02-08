@@ -220,3 +220,7 @@ You wanted a cute, horny, roast-heavy AI girlfriend with unlimited tokens runnin
 
 
 MOONSHOT_API_KEY=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
+
+
+New Nvidia APi key
+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
