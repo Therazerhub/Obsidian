@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "04fde84921e3623e",
+        "id": "744a6ab8bbb7cfac",
         "type": "tabs",
         "children": [
           {
-            "id": "11f8c0f085b98471",
+            "id": "3b079ae81395c607",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OpenClaw NVIDIA + Kimi K2.5 Config"
             }
           }
         ]
@@ -189,18 +193,18 @@
       "graph:Open graph view": false
     }
   },
-  "active": "11f8c0f085b98471",
+  "active": "3b079ae81395c607",
   "lastOpenFiles": [
+    "Projects/local ai Voice clone.md",
+    "Projects/Lilly Setup.md",
+    "Projects/Ai Influencer.md",
+    "_Archive/clwadbot.md",
     "_Archive/raw jason file.md",
     "_Archive/fond something.md",
-    "_Archive/clwadbot.md",
     "Git Vault Setup (Template).md",
     "ComfyUI.md",
     "README.md",
     "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
-    "Projects/local ai Voice clone.md",
-    "Projects/Lilly Setup.md",
-    "Projects/Ai Influencer.md",
     "Daily Notes/2026-02-07.md",
     "Daily Notes/2026-02-06.md",
     "Daily Notes/2026-02-05.md",
