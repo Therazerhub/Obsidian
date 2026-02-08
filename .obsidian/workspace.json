@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
+                "file": "Projects/Lilly Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for OpenClaw NVIDIA + Kimi K2.5 Config"
+              "title": "Backlinks for Lilly Setup"
             }
           },
           {
@@ -214,10 +214,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6e68bf0cb420cfb0",
+  "active": "5ca7a5c4c666c028",
   "lastOpenFiles": [
-    "Projects/Lilly Setup.md",
     "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
+    "Projects/Lilly Setup.md",
     "Tasks & Inbox.md",
     "new config.md",
     "Projects/local ai Voice clone.md",
