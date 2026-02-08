@@ -1,0 +1,3 @@
+Found openrouter
+its key
+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
