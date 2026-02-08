@@ -10,8 +10,8 @@ using OpenClaw `2026.2.6-3`.
 Do **NOT** hardcode secrets in JSON.
 
 ```env
-NVIDIA_API_KEY=nvapi-REVOKED_AND_REGENERATED
-OPENCLAW_GATEWAY_TOKEN=your_gateway_token```
+NVIDIA_API_KEY=`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`
+OPENCLAW_GATEWAY_TOKEN=f5174d30480ff648aa13452f64cf85ef850c0f23386dc351```
 ```
 🧠 Corrected `openclaw.json`
 ```{
