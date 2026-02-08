@@ -61,7 +61,7 @@ openclaw onboard --mode local
     "providers": {
       "nvidia": {
         "baseUrl": "https://integrate.api.nvidia.com/v1",
-        "apiKey": "${NVIDIA_API_KEY}",
+        "apiKey": "`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`",
         "api": "openai-completions",
         "models": [
           {
@@ -97,13 +97,13 @@ openclaw onboard --mode local
   "gateway": {
     "mode": "local",
     "controlUi": { "allowInsecureAuth": true },
-    "auth": { "mode": "token", "token": "${OPENCLAW_GATEWAY_TOKEN}" }
+    "auth": { "mode": "token", "token": "f5174d30480ff648aa13452f64cf85ef850c0f23386dc351" }
   },
   "channels": {
     "telegram": {
       "enabled": true,
       "dmPolicy": "pairing",
-      "botToken": "${TELEGRAM_BOT_TOKEN}"
+      "botToken": "8062041399:AAFDZfCG90wZpg1assVqM9__zdX_ljTTTXY"
     }
   },
   "plugins": {
