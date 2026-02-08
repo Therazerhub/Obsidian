@@ -1,3 +1,14 @@
+# Legacy Config: Ollama (Pre-NVIDIA)
+
+This was the working configuration before switching to NVIDIA API. Preserved as history.
+
+**Status:** Legacy — Superseded by NVIDIA cloud provider
+
+---
+
+## Configuration
+
+```json
 {
   "meta": {
     "lastTouchedVersion": "2026.2.6-3",
@@ -8,14 +19,6 @@
     "lastRunVersion": "2026.2.6-3",
     "lastRunCommand": "onboard",
     "lastRunMode": "local"
-  },
-  "auth": {
-    "profiles": {
-      "google:default": {
-        "provider": "google",
-        "mode": "api_key"
-      }
-    }
   },
   "models": {
     "providers": {
@@ -28,9 +31,7 @@
             "id": "kimi-k2.5:cloud",
             "name": "kimi-k2.5:cloud",
             "reasoning": false,
-            "input": [
-              "text"
-            ],
+            "input": ["text"],
             "cost": {
               "input": 0,
               "output": 0,
@@ -54,67 +55,34 @@
         "google/gemini-2.5-flash-lite": {},
         "ollama/kimi-k2.5:cloud": {}
       },
-      "workspace": "/home/ubuntu/.openclaw/workspace",
-      "compaction": {
-        "mode": "safeguard"
-      },
       "maxConcurrent": 4,
       "subagents": {
         "maxConcurrent": 8
       }
     }
-  },
-  "messages": {
-    "ackReactionScope": "group-mentions"
-  },
-  "commands": {
-    "native": "auto",
-    "nativeSkills": "auto"
-  },
-  "channels": {
-    "telegram": {
-      "enabled": true,
-      "dmPolicy": "allowlist",
-      "botToken": "__OPENCLAW_REDACTED__",
-      "allowFrom": [
-        "6001922744"
-      ],
-      "groupPolicy": "allowlist",
-      "streamMode": "partial"
-    }
-  },
-  "gateway": {
-    "port": 18789,
-    "mode": "local",
-    "bind": "loopback",
-    "controlUi": {
-      "enabled": true,
-      "basePath": "/openclaw"
-    },
-    "auth": {
-      "mode": "token",
-      "token": "__OPENCLAW_REDACTED__"
-    },
-    "tailscale": {
-      "mode": "off",
-      "resetOnExit": false
-    }
-  },
-  "skills": {
-    "install": {
-      "nodeManager": "npm"
-    },
-    "entries": {
-      "notion": {
-        "apiKey": "__OPENCLAW_REDACTED__"
-      }
-    }
-  },
-  "plugins": {
-    "entries": {
-      "telegram": {
-        "enabled": true
-      }
-    }
   }
 }
+```
+
+---
+
+## Evolution
+
+1. **2026-02-07:** Ollama local setup (this config)
+2. **2026-02-08:** Switched to NVIDIA API for cloud compute
+3. **2026-02-08 (later):** Switched BACK to Ollama for speed ⚡
+
+---
+
+## Why the Switch?
+
+| Provider | Pros | Cons |
+|----------|------|------|
+| **Ollama** | Fast (local), free, private | Needs local GPU/CPU |
+| **NVIDIA** | Huge context (200k+), no local compute | Latency, API limits |
+
+**Current:** Back on Ollama for responsive chatting.
+
+---
+
+*Legacy configuration — preserved for reference* 📜

@@ -1,26 +1,49 @@
-1. SEtup on aws or phone , aws will be better
-2. which ai to chose ? copilot or microsoft azure with student id 
+# Early OpenClaw Setup Notes
+
+Early scratchpad from initial setup attempts. Historical reference — see [[Projects/Lilly Setup]] for the working configuration.
+
+---
+
+## Decisions Made
+
+| Decision | Options Considered | Final Choice |
+|----------|-------------------|--------------|
+| **Hosting** | AWS vs Phone | **AWS** (more reliable, 24/7) |
+| **AI Provider** | Copilot vs Azure Student ID | **NVIDIA API** (found later) |
+
+---
+
+## Quick Access Commands
+
+```bash
+# SSH to VPS
 ssh -i "openclaw.pem" ubuntu@ec2-56-228-35-215.eu-north-1.compute.amazonaws.com
 
+# Port forward for local gateway access
 ssh -i openclaw.pem -N -L 18789:127.0.0.1:18789 ubuntu@56.228.35.215
-
-f5174d30480ff648aa13452f64cf85ef850c0f23386dc351
-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
-
-
-try to integrate cladbot with nvidias kimi 2.5 model 
-
-[[raw jason file]]
-
-
-```
-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
 ```
 
-gateway token
-```
-f5174d30480ff648aa13452f64cf85ef850c0f23386dc351
-```
+---
 
-[[fond something]]
+## Integration Attempts
 
+**Goal:** Integrate Clawbot with NVIDIA Kimi 2.5
+
+**Status:** ✅ Completed via OpenClaw + NVIDIA API integration
+
+**Final Setup:**
+- Primary: `ollama/kimi-k2.5:cloud` (local)
+- Fallback: `nvidia/moonshotai/kimi-k2.5` (cloud)
+
+---
+
+## Security Note
+
+Original notes contained exposed API tokens and gateway credentials. These have been:
+1. Moved to `_secure/` folder
+2. Regenerated/revoked where applicable
+3. Referenced via environment variables in working configs
+
+---
+
+*Historical doc — 2026-02-07 to 2026-02-08*
