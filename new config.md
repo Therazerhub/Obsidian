@@ -80,7 +80,7 @@
     },
     "auth": {
       "mode": "token",
-      "token": "${OPENCLAW_GATEWAY_TOKEN}"
+      "token": "f5174d30480ff648aa13452f64cf85ef850c0f23386dc351"
     }
   },
 
