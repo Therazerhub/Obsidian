@@ -70,8 +70,7 @@
               "title": "Tasks & Inbox"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,11 +242,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3f61c45ea083a08d",
+  "active": "5dc73821d47eb65d",
   "lastOpenFiles": [
+    "Tasks & Inbox.md",
     "new config.md",
     "README.md",
-    "Tasks & Inbox.md",
     "Projects/Lilly Setup.md",
     "Projects/local ai Voice clone.md",
     "Git Vault Setup (Template).md",
