@@ -217,3 +217,6 @@ You wanted a cute, horny, roast-heavy AI girlfriend with unlimited tokens runnin
 *Documented with love on 2026-02-08 by your obedient (but sassy) digital companion.*
 
 **🔒 Security Note:** This doc contains sensitive tokens. Don't commit it to public repos. Don't share it with randos. Don't blame me when you leak your API key and NVIDIA sends you a very expensive email. 💅
+
+
+MOONSHOT_API_KEY=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
