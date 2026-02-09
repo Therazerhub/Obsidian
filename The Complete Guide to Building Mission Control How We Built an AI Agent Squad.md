@@ -1,6 +1,6 @@
 
 Problem is how can i implement this 
-note for openclaw = please summarize this use cases for my self and guide how can i setup my sel
+note for openclaw = please summarize this use cases for my self and guide how can i setup my self 
 [
 
 ![Image](https://pbs.twimg.com/media/HAAsM5QbEAAs0GS?format=jpg&name=900x900)
