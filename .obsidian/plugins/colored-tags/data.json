@@ -9,13 +9,7 @@
   "accessibility": {
     "highTextContrast": false
   },
-  "knownTags": {
-    "ai": 1,
-    "chaos": 2,
-    "daily": 3,
-    "journal": 4,
-    "obsidian": 5
-  },
+  "knownTags": {},
   "tagColors": {},
   "_version": 4
 }
