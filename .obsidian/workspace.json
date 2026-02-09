@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/OpenClaw Monetization Guide.md",
+                "file": "_Projects/Personal-Cron-Digests/YC-Startup-Spotlight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenClaw Monetization Guide"
+              "title": "YC-Startup-Spotlight"
             }
           }
         ]
@@ -196,17 +196,19 @@
   },
   "active": "6822284aa8264c2f",
   "lastOpenFiles": [
-    "Projects/Obsidian iOS Sync Setup Guide.md",
-    "Daily Notes/2026-02-09.md",
     "_Projects/Personal-Cron-Digests/README.md",
-    "_Projects/Personal-Cron-Digests/YC-Startup-Spotlight.md",
     "_Projects/Personal-Cron-Digests/Product-Hunt-Daily-Picks.md",
-    "_Projects/Personal-Cron-Digests/GitHub-Trending-Digest.md",
     "_Projects/Personal-Cron-Digests/Hacker-News-Digest.md",
+    "_Projects/Personal-Cron-Digests/GitHub-Trending-Digest.md",
     "_Projects/Personal-Cron-Digests/Daily-Motivation.md",
     "_Projects/Personal-Cron-Digests/AI-Twitter-Digest.md",
-    "_Projects/Personal-Cron-Digests",
+    "Daily Motivation.md",
+    "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
     "Projects/OpenClaw Monetization Guide.md",
+    "Projects/Obsidian iOS Sync Setup Guide.md",
+    "Daily Notes/2026-02-09.md",
+    "_Projects/Personal-Cron-Digests/YC-Startup-Spotlight.md",
+    "_Projects/Personal-Cron-Digests",
     "Projects/Local OpenClaw Setup Guide.md",
     "Projects/Learn to Code with AI Agent Guide.md",
     "Daily Digests/2026-02-09/motivation.md",
@@ -214,7 +216,6 @@
     "Daily Digests/README.md",
     "Daily Digests/2026-02-09",
     "Daily Digests",
-    "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
     "Projects/Nvidia Kimi K2 Unlimited 💀.md",
     "Projects/local ai Voice clone.md",
     "Projects/Lilly Setup.md",
@@ -225,7 +226,6 @@
     "_Projects",
     "_Archive/Mission Control - AI Agent Squad (Reference).md",
     "Mission Control Setup Guide for OpenClaw.md",
-    "Build A Completly Automated Ai Motivational Video channel.md",
     "_Research",
     "_secure",
     "_Archive",
