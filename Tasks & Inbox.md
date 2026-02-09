@@ -7,8 +7,8 @@ Quick capture space for TODOs and ideas.
 ## Active Tasks
 
 - [x] Make own chat bot locally and free for unlimited queries (heck yeah!)
-- [ ] Setup [[clwadbot]] and use it
-  - [ ] Think about where to setup — maybe old laptop? Powerful and can be 24/7 at home
+- [x] Setup [[clwadbot]] and use it
+  - [x] Think about where to setup — maybe old laptop? Powerful and can be 24/7 at home
 - [ ] Explore open code
 - [ ] Setup Voice Cloner and ComfyUI
 - [x] Setup [[local Voice AI]] for video productions (reliability + usability)

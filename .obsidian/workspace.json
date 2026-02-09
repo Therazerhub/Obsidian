@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvidia Kimi K2 Unlimited 💀.md",
+                "file": "Tasks & Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nvidia Kimi K2 Unlimited 💀"
+              "title": "Tasks & Inbox"
             }
           }
         ],
@@ -225,13 +225,13 @@
   },
   "active": "e9c4170acf8a2318",
   "lastOpenFiles": [
+    "README.md",
+    "Nvidia Kimi K2 Unlimited 💀.md",
     "Projects/Lilly Setup.md",
     "Looking for Free AI models.md",
     "Git Vault Setup (Template).md",
     "ComfyUI.md",
-    "README.md",
     "Tasks & Inbox.md",
-    "Nvidia Kimi K2 Unlimited 💀.md",
     "_secure/OpenClaw Secrets.md",
     "_secure/Git cloning setup.md",
     "_secure/API Keys.md",
