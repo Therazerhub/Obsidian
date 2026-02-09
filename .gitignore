@@ -1,8 +1,4 @@
 # Obsidian Vault - Git Ignore
-# Secrets and sensitive files
-_secure/
-_Archive/  # Contains old files with secrets
-
 # Obsidian system files
 .obsidian/workspace.json
 .obsidian/cache/
