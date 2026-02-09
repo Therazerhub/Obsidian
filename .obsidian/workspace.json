@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Research/Research - Create motivational video.md",
+                "file": "_Research/Research - Automated AI Motivational Video Channel (Partial).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research - Create motivational video"
+              "title": "Research - Automated AI Motivational Video Channel (Partial)"
             }
           }
         ]
@@ -194,8 +194,9 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6822284aa8264c2f",
+  "active": "65df3a0b6f3aa4e0",
   "lastOpenFiles": [
+    "_Research/Research - Create motivational video.md",
     "_Research/Research - Automated AI Motivational Video Channel (Partial).md",
     "Build A Completly Automated Ai Motivational Video channel.md",
     "The Complete Guide to Building Mission Control How We Built an AI Agent Squad.md",
@@ -221,7 +222,6 @@
     "_Research/Research - Explore open source code contributions.md",
     "_Research/Research - Document full deployment guide.md",
     "_Research/Research - Decide deployment target (old laptop 24-7 home server).md",
-    "_Research/Research - Define aesthetic & create mood board.md",
     "_Research",
     "_secure",
     "_Archive",
