@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-02-09.md",
+                "file": "_Research/Research Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-02-09"
+              "title": "Research Index"
             }
           }
         ],
@@ -225,9 +225,13 @@
   },
   "active": "e9c4170acf8a2318",
   "lastOpenFiles": [
+    "Tasks & Inbox.md",
+    "_Research/Research - ComfyUI workflow for video content.md",
+    "_Research/Research - Build master ComfyUI workflow.md",
+    "_Research/Research - 🧠 ComfyUI – Qwen TTS Setup Guide.md",
+    "Daily Notes/2026-02-09.md",
     "Projects/Lilly Setup.md",
     "_Research/Research Index.md",
-    "_Research/Research - 🧠 ComfyUI – Qwen TTS Setup Guide.md",
     "_Research/Research - Train custom LoRA (`rzr_influencer_v1`).md",
     "_Research/Research - Voice & Video Pipeline.md",
     "_Research/Research - Integrate voice with AI influencer content.md",
@@ -244,14 +248,10 @@
     "_Research/Research - ComfyUI Workflows.md",
     "_Research/Research - Create motivational video.md",
     "_Research/Research - Clawd Bot Deployment [[clwadbot]].md",
-    "_Research/Research - ComfyUI workflow for video content.md",
-    "_Research/Research - Build master ComfyUI workflow.md",
     "_Research",
-    "Daily Notes/2026-02-09.md",
     "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
     "Projects/local ai Voice clone.md",
     "_secure/OpenClaw Secrets.md",
-    "_secure/Git cloning setup.md",
     "_secure",
     "_Archive",
     "Projects",
