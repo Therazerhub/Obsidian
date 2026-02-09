@@ -17,10 +17,10 @@ Think of them as your "I'm out of premium credits but still need to code" safety
 
 Two backup models added to the NVIDIA provider:
 
-| Model | Alias | Context | Speed | Cost |
-|-------|-------|---------|-------|------|
-| `z-ai/glm4.7` | `z-ai` | 128k | Slow | Free |
-| `minimaxai/minimax-m2.1` | `minimaxai` | 128k | Slow | Free |
+| Model                    | Alias       | Context | Speed | Cost |
+| ------------------------ | ----------- | ------- | ----- | ---- |
+| `z-ai/glm4.7`            | `z-ai`      | 128k    | Slow  | Free |
+| `minimaxai/minimax-m2.1` | `minimaxai` | 128k    | Slow  | Free |
 
 Your main models still work as before:
 - `kimi-coding/k2p5` — Primary fast model (current default)
