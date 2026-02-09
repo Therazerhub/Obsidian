@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_secure/API Keys.md",
+                "file": "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Keys"
+              "title": "OpenClaw NVIDIA + Kimi K2.5 Config"
             }
           }
         ],
@@ -225,18 +225,18 @@
   },
   "active": "e9c4170acf8a2318",
   "lastOpenFiles": [
-    "Projects/Lilly Setup.md",
-    "_secure/OpenClaw Secrets.md",
     "Projects/local ai Voice clone.md",
+    "_secure/OpenClaw Secrets.md",
+    "_secure/Git cloning setup.md",
+    "_secure/API Keys.md",
+    "README.md",
+    "Projects/Lilly Setup.md",
     "Projects/Nvidia Kimi K2 Unlimited 💀.md",
     "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
     "Tasks & Inbox.md",
     "_Archive/ComfyUI.md",
     "_Archive/Looking for Free AI models.md",
     "_Archive/Git Vault Setup (Template).md",
-    "README.md",
-    "_secure/Git cloning setup.md",
-    "_secure/API Keys.md",
     "_Archive/openclaw-config-raw-2026-02-08.md",
     "_Archive/nvidia-setup-notes-2026-02-09.md",
     "_Archive/nvidia-config-raw-2026-02-08.md",
