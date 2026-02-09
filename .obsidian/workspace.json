@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f15ec2cc072253c9",
@@ -271,10 +271,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "2fc7a75cb80e16ef",
+  "active": "f5c8711c682ea9db",
   "lastOpenFiles": [
-    "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
     "9 Feb Nvidia Kimi k2.5 setup Proper Verision.md",
+    "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
     "Projects/Lilly Setup.md",
     "Nvidia Kimi 2.5 With Openclaw setup.md",
     "_Archive/raw jason file.md",
