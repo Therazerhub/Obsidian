@@ -28,16 +28,25 @@ Your main models still work as before:
 
 ---
 
-## Configuration Applied
+## 🔐 Secrets Location
 
-### Environment Variables (Required)
-```bash
-# Add to your shell profile (.bashrc, .zshrc, etc.)
-export NVIDIA_API_KEY=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
-export OPENCLAW_GATEWAY_TOKEN=f5174d30480ff648aa13452f64cf85ef850c0f23386dc351
+All API keys and tokens are stored in:
+```
+_secure/OpenClaw Secrets.md
 ```
 
-### OpenClaw Config Location
+**Environment Variables (Required):**
+```bash
+# Add to your shell profile (.bashrc, .zshrc, etc.)
+export NVIDIA_API_KEY="${NVIDIA_API_KEY}"
+export OPENCLAW_GATEWAY_TOKEN="${OPENCLAW_GATEWAY_TOKEN}"
+```
+
+*(Get actual values from `_secure/OpenClaw Secrets.md`)*
+
+---
+
+## OpenClaw Config Location
 `~/.openclaw/openclaw.json`
 
 ### NVIDIA Provider Block
@@ -122,7 +131,8 @@ openclaw models set kimi-coding/k2p5
 
 ### Test API Directly (cURL)
 ```bash
-export NVIDIA_API_KEY=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
+# Make sure env var is set first
+source ~/.bashrc  # or ~/.zshrc
 
 curl -s -X POST https://integrate.api.nvidia.com/v1/chat/completions \
   -H "Authorization: Bearer $NVIDIA_API_KEY" \
@@ -154,8 +164,8 @@ curl -s -X POST https://integrate.api.nvidia.com/v1/chat/completions \
 
 ### "No API key found for provider"
 ```bash
-# Fix: Export the key
-export NVIDIA_API_KEY=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
+# Fix: Export the key (get value from _secure/OpenClaw Secrets.md)
+export NVIDIA_API_KEY=your_key_here
 ```
 
 ### Model not showing in list
@@ -174,10 +184,12 @@ That's expected. These are free tier models. Switch back to `kimi-coding/k2p5` w
 
 ## Source Material
 
-- Original setup notes: [[9 Feb Nvidia Kimi k2.5 setup Proper Verision]]
-- NVIDIA config reference: [[OpenClaw NVIDIA + Kimi K2.5 Config]]
+- Original setup notes: [[_Archive/nvidia-setup-notes-2026-02-09]]
+- NVIDIA config reference: [[Projects/OpenClaw NVIDIA + Kimi K2.5 Config]]
 - Reddit source: Found workaround for free NVIDIA models via `z-ai/glm4.7` and `minimaxai/minimax-m2.1`
 
 ---
 
 **Status:** Ready for quota emergencies 💀🤖
+
+*Last secured by Lilly* 🤖💕🔒
