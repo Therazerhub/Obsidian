@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motivational Video Guide.md",
+                "file": "Build A Completly Automated Ai Motivational Video channel.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Motivational Video Guide"
+              "title": "Build A Completly Automated Ai Motivational Video channel"
             }
           }
         ],
@@ -267,8 +267,8 @@
   },
   "active": "670c52f254ef24e2",
   "lastOpenFiles": [
-    "Build A Completly Automated Ai Motivational Video channel.md",
     "Motivational Video Guide.md",
+    "Build A Completly Automated Ai Motivational Video channel.md",
     "_secure/API Keys.md",
     "_Research/Research Index.md",
     "_Research/Research - Train custom LoRA (`rzr_influencer_v1`).md",
