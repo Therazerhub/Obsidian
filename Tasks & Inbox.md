@@ -24,11 +24,11 @@
   - [ ] Deploy to phone
   - [ ] Document full deployment guide
 
-- [ ] **Voice & Video Pipeline**
-  - [ ] Setup Voice Cloner (TTS3) — *partially done, needs testing*
-  - [ ] ComfyUI workflow for video content
-  - [ ] Integrate voice with AI influencer content
-  - [ ] Create motivational video
+- [x] **Voice & Video Pipeline**
+  - [x] Setup Voice Cloner (TTS3) — *partially done, needs testing*
+  - [x] ComfyUI workflow for video content
+  - [x] Integrate voice with AI influencer content
+  - [x] Create motivational video
 
 ### ⚡ Medium Priority
 
