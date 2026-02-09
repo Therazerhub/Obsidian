@@ -230,5 +230,7 @@ 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
 ```
 
 Moonshot Kimi 2.5 APi key
-```sk-kimi-HqjFRx9degMAjJiY0w2jGhJdil67xfQLEc0ataDQ4lhRVDe9LptjI5M8RKR8XKnD
+``` 
+sk-kimi-HqjFRx9degMAjJiY0w2jGhJdil67xfQLEc0ataDQ4lhRVDe9LptjI5M8RKR8XKnD
 ```
+
