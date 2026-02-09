@@ -76,6 +76,10 @@ NOT:
 ```
 
 ---
+Kimi Code api key
+```
+sk-kimi-rVCoYTOJ7jALZwcbXgK5N2nvyfn5yBAVq3KL5VgLuNAAa3ihbePuuU6VcdbqEadp
+```
 
 *Security audit by Lilly* 🤖💕🔒
 *Date: 2026-02-09*
