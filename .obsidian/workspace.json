@@ -49,7 +49,8 @@
               "title": "Fucked up day"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -222,10 +223,11 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6e68bf0cb420cfb0",
+  "active": "e9c4170acf8a2318",
   "lastOpenFiles": [
-    "Projects/local ai Voice clone.md",
+    "_Archive/raw jason file.md",
     "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
+    "Projects/local ai Voice clone.md",
     "Projects/Lilly Setup.md",
     "Projects/Ai Influencer.md",
     "ComfyUI.md",
@@ -237,7 +239,6 @@
     "Looking for Free AI models.md",
     "new config.md",
     "Nvidia Kimi 2.5 With Openclaw setup.md",
-    "_Archive/raw jason file.md",
     "Daily Notes/Fucked up day.md",
     "_secure/Git cloning setup.md",
     "_Archive/fond something.md",
