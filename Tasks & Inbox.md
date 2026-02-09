@@ -32,7 +32,7 @@
 
 ### ⚡ Medium Priority
 
-- [ ] **OpenClaw Hardering & Optimization**
+- [ ] **OpenClaw Hardening & Optimization**
   - [ ] Explore open source code contributions
   - [ ] Performance tuning for local models
   - [ ] Document custom configurations
