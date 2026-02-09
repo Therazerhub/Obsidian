@@ -87,6 +87,8 @@
 
 ```
 [Add quick ideas here...]
+Ollama Also provides a free kimi 2.5 which has very less rate limits but still good in emergency 
+
 ```
 
 ---
