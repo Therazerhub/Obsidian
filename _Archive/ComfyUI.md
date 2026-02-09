@@ -1,16 +1,50 @@
-# ComfyUI Workflows
+# 🎨 ComfyUI Workflows
 
-Links and references for ComfyUI setups.
+> *AI image generation pipeline central*
 
-## Active Projects
+---
 
-- [[local ai Voice clone]] - Voice synthesis workflows
-- [[Ai Influencer]] - Image generation pipelines
+## 🔗 Quick Navigation
 
-## Quick Access
+| Project | Purpose | Status |
+|---------|---------|:------:|
+| [[local ai Voice clone]] | Voice synthesis workflows | 🔄 Active |
+| [[AI Influencer]] | Image generation pipelines | 🔄 Active |
 
-Trying to deploy [[local ai Voice clone]].
+---
+
+## 🚀 Active Projects
+
+> [!INFO] Current Focus
+> Working on deploying **[[local ai Voice clone]]** through ComfyUI
+
+### 🎭 AI Influencer Pipeline
+- Face-swap workflows
+- Image generation batches
+- Video content creation
+
+### 🎙️ Voice Clone Integration
+- Qwen TTS Setup
+- Voice cloning with TTS3
+- Audio pipeline integration
+
+---
+
+## 📦 Resources
+
+- [[Research - ComfyUI Workflows]] — Detailed workflow notes
+- [[Research - 🧠 ComfyUI – Qwen TTS Setup Guide]] — TTS integration
+- [[_Research/Research Index]] — All research topics
+
+---
+
+## 🔗 External Links
+
+- [ComfyUI GitHub](https://github.com/comfyanonymous/ComfyUI)
+- [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager)
 
 ---
 
 *See individual project notes for detailed configs.*
+
+*Organized by Lilly* 🤖💕
