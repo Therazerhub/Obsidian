@@ -1,13 +1,6 @@
-Here is a solution on Linux.
-
-1. Backup your openclaw.json (default path: ~/.openclaw)
-    
-2. Find out "providers": { location, then add the configuration, here is an example.
-    
-
-  ```"nvidia": {
+```  "nvidia": {
     "baseUrl": "https://integrate.api.nvidia.com/v1",
-    "apiKey": "your build.nvidia.com API",
+    "apiKey": "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",
     "api": "openai-completions",
     "models": [
       {
@@ -44,15 +37,4 @@ Here is a solution on Linux.
       }
     ]
   }
-
-3. then add the model with cli
-
-# set default model
-openclaw models set nvidia/minimaxai/minimax-m2.1
-# check the model list
-openclaw models list
-
-4. restart the openclaw
-
-Hope this can help you.
 ```

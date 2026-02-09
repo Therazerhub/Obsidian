@@ -84,8 +84,7 @@
               "title": "Fucked up day"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ad9844af0cebd413",
@@ -260,12 +260,12 @@
   },
   "active": "f5c8711c682ea9db",
   "lastOpenFiles": [
-    "Projects/Lilly Setup.md",
-    "Nvidia Kimi 2.5 With Openclaw setup.md",
+    "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
     "_Archive/raw jason file.md",
+    "Nvidia Kimi 2.5 With Openclaw setup.md",
+    "Projects/Lilly Setup.md",
     "Daily Notes/Fucked up day.md",
     "new config.md",
-    "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
     "Tasks & Inbox.md",
     "Projects/local ai Voice clone.md",
     "README.md",
