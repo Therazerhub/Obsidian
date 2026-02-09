@@ -9,7 +9,17 @@
   "accessibility": {
     "highTextContrast": false
   },
-  "knownTags": {},
+  "knownTags": {
+    "ai": 1,
+    "architecture": 2,
+    "automation": 3,
+    "clawdbot": 4,
+    "content-creation": 5,
+    "multi-agent": 6,
+    "openclaw": 7,
+    "prompts": 8,
+    "youtube": 9
+  },
   "tagColors": {},
   "_version": 4
 }
