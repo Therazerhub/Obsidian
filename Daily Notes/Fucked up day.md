@@ -1,0 +1,1 @@
+Everything god fucked whole work got waste fuk this shit tomorrow i'll retry now i really need rest
