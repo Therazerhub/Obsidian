@@ -86,6 +86,11 @@ StashDB API Key
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJlZWY1MDg1My03ZjRhLTQ2MzQtOGQ0NC1lMzY0MTVhZTgyMWIiLCJzdWIiOiJBUElLZXkiLCJpYXQiOjE3MjU1Mzc3MTZ9.GXORML4qnuFXESGBUXW0gJJDBKecjNyMBte2H4yV4mA
 ```
 
+Mongdb URL
+```
+mongodb+srv://razer:razer@cluster0.7ciiybf.mongodb.net/?appName=Cluster0
+```
+
 
 *Security audit by Lilly* 🤖💕🔒
 *Date: 2026-02-09*
