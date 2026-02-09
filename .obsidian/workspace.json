@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nvidia Kimi K2 Unlimited 💀.md",
+                "file": "_secure/Git cloning setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nvidia Kimi K2 Unlimited 💀"
+              "title": "Git cloning setup"
             }
           }
         ],
@@ -225,10 +225,10 @@
   },
   "active": "e9c4170acf8a2318",
   "lastOpenFiles": [
-    "ComfyUI.md",
     "Git Vault Setup (Template).md",
-    "Looking for Free AI models.md",
     "Nvidia Kimi K2 Unlimited 💀.md",
+    "ComfyUI.md",
+    "Looking for Free AI models.md",
     "README.md",
     "Tasks & Inbox.md",
     "Projects/Lilly Setup.md",
