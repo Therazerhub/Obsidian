@@ -88,7 +88,8 @@
 ```
 [Add quick ideas here...]
 Ollama Also provides a free kimi 2.5 which has very less rate limits but still good in emergency 
-Get all the free ai models working for openclaw cause im broke as hell research all fre
+Get all the free ai models working for openclaw cause im broke as hell research all free ai models for open claw
+
 ```
 
 ---
