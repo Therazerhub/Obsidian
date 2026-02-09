@@ -81,5 +81,11 @@ Kimi Code api key
 sk-kimi-rVCoYTOJ7jALZwcbXgK5N2nvyfn5yBAVq3KL5VgLuNAAa3ihbePuuU6VcdbqEadp
 ```
 
+StashDB API Key 
+```
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiJlZWY1MDg1My03ZjRhLTQ2MzQtOGQ0NC1lMzY0MTVhZTgyMWIiLCJzdWIiOiJBUElLZXkiLCJpYXQiOjE3MjU1Mzc3MTZ9.GXORML4qnuFXESGBUXW0gJJDBKecjNyMBte2H4yV4mA
+```
+
+
 *Security audit by Lilly* 🤖💕🔒
 *Date: 2026-02-09*
