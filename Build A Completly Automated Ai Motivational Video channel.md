@@ -227,3 +227,4 @@ GOOGLE AI STUDIO PROMPT
 
 Speak slowly with a deep, masculine tone. Keep voice confident, disciplined, and authoritative, but maintain **natural pacing** that matches a fast-paced motivational script. Sound like a composed mentor delivering hard truths, but avoid dragging words or sounding overly slow. Keep delivery grounded, serious, and engaging.
 ```
+i 
