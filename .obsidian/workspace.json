@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Local OpenClaw Setup Guide.md",
+                "file": "Projects/Learn to Code with AI Agent Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Local OpenClaw Setup Guide"
+              "title": "Learn to Code with AI Agent Guide"
             }
           }
         ],
@@ -211,11 +211,12 @@
   },
   "active": "acf50713f62619e0",
   "lastOpenFiles": [
+    "Projects/Lilly Setup.md",
+    "Projects/Local OpenClaw Setup Guide.md",
     "Projects/Nvidia Kimi K2 Unlimited 💀.md",
     "Projects/local ai Voice clone.md",
     "Arch Linux Setup.md",
     "Daily Notes/2026-02-09.md",
-    "Projects/Lilly Setup.md",
     "_Research/Research - Voice & Video Pipeline.md",
     "Daily Digests/2026-02-09/motivation.md",
     "Daily Digests/2026-02-09/github-trending.md",
@@ -231,7 +232,6 @@
     "Projects/OpenClaw Monetization Guide.md",
     "Projects/Obsidian iOS Sync Setup Guide.md",
     "_Projects/Personal-Cron-Digests",
-    "Projects/Local OpenClaw Setup Guide.md",
     "Projects/Learn to Code with AI Agent Guide.md",
     "Daily Digests/README.md",
     "Daily Digests/2026-02-09",
