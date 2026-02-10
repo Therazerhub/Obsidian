@@ -1,1 +1,1 @@
-1. End4 Dots - Good for running mod
+1. End4 Dots - Good for running models locally also clean ui
