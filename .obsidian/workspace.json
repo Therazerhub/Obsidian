@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Research/Research - Voice & Video Pipeline.md",
+                "file": "Daily Notes/2026-02-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research - Voice & Video Pipeline"
+              "title": "2026-02-09"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "graph:Open graph view": false
     }
   },
-  "active": "6822284aa8264c2f",
+  "active": "65df3a0b6f3aa4e0",
   "lastOpenFiles": [
+    "Projects/Lilly Setup.md",
+    "_Research/Research - Voice & Video Pipeline.md",
     "Daily Notes/2026-02-09.md",
     "Daily Digests/2026-02-09/motivation.md",
     "Daily Digests/2026-02-09/github-trending.md",
@@ -218,14 +220,12 @@
     "Daily Digests",
     "Projects/Nvidia Kimi K2 Unlimited 💀.md",
     "Projects/local ai Voice clone.md",
-    "Projects/Lilly Setup.md",
     "_Projects/Automated Motivational Video Channel.md",
     "_Projects/Motivational Video Prompts.md",
     "Motivational Video Guide.md",
     "The Complete Guide to Building Mission Control How We Built an AI Agent Squad.md",
     "_Projects",
     "_Archive/Mission Control - AI Agent Squad (Reference).md",
-    "Mission Control Setup Guide for OpenClaw.md",
     "_Research",
     "_secure",
     "_Archive",
