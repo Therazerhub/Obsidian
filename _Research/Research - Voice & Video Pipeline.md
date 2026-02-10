@@ -40,11 +40,11 @@ type: "auto-generated"
 
 ### Voice Setup
 
-| Component | Status | Notes |
-|-----------|:------:|-------|
-| TTS3 Voice Cloner | ✅ | Setup complete |
-| Qwen TTS | ⬜ | Needs Pinokio install |
-| Integration | ⬜ | Pending |
+| Component         | Status | Notes                 |
+| ----------------- | :----: | --------------------- |
+| TTS3 Voice Cloner |   ✅    | Setup complete        |
+| Qwen TTS          |   ⬜    | Needs Pinokio install |
+| Integration       |   ⬜    | Pending               |
 
 ### Video Pipeline
 
