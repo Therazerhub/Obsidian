@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPENCLAW.md",
+                "file": "Projects/Lilly Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OPENCLAW"
+              "title": "Lilly Setup"
             }
           }
         ],
@@ -229,8 +229,8 @@
   },
   "active": "a867a40061747d8c",
   "lastOpenFiles": [
-    "Projects/Lilly Setup.md",
     "OPENCLAW.md",
+    "Projects/Lilly Setup.md",
     "README.md",
     "Projects/Learn to Code with AI Agent Guide.md",
     "Daily Notes/2026-02-09.md",
