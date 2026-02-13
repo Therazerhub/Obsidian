@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2026-02-09"
             }
-          },
-          {
-            "id": "acf50713f62619e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MEMORY.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MEMORY"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,6 +33,7 @@
       {
         "id": "5dadd4e62246d304",
         "type": "tabs",
+        "dimension": 63.30749354005169,
         "children": [
           {
             "id": "65df3a0b6f3aa4e0",
@@ -87,6 +73,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9b8d4cbf0621b87",
+        "type": "tabs",
+        "dimension": 36.69250645994832,
+        "children": [
+          {
+            "id": "acf50713f62619e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -211,12 +214,12 @@
   },
   "active": "acf50713f62619e0",
   "lastOpenFiles": [
+    "Projects/Lilly Setup.md",
+    "MEMORY.md",
     "Daily Digests/2026-02-09/motivation.md",
     "Daily Digests/2026-02-09/github-trending.md",
     "Projects/Learn to Code with AI Agent Guide.md",
-    "MEMORY.md",
     "Daily Notes/2026-02-11.md",
-    "Projects/Lilly Setup.md",
     "Projects/Local OpenClaw Setup Guide.md",
     "Projects/Nvidia Kimi K2 Unlimited 💀.md",
     "Projects/local ai Voice clone.md",
