@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Lilly Setup.md",
+                "file": "OPENCLAW.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lilly Setup"
+              "title": "OPENCLAW"
             }
           }
         ],
@@ -48,7 +48,7 @@
       {
         "id": "5dadd4e62246d304",
         "type": "tabs",
-        "dimension": 63.30749354005169,
+        "dimension": 63.30749354005168,
         "children": [
           {
             "id": "65df3a0b6f3aa4e0",
@@ -95,7 +95,7 @@
       {
         "id": "e9b8d4cbf0621b87",
         "type": "tabs",
-        "dimension": 36.69250645994832,
+        "dimension": 36.69250645994831,
         "children": [
           {
             "id": "acf50713f62619e0",
@@ -229,10 +229,11 @@
   },
   "active": "a867a40061747d8c",
   "lastOpenFiles": [
+    "README.md",
+    "Projects/Lilly Setup.md",
     "Projects/Learn to Code with AI Agent Guide.md",
     "OPENCLAW.md",
     "Daily Notes/2026-02-09.md",
-    "Projects/Lilly Setup.md",
     "MEMORY.md",
     "Daily Digests/2026-02-09/motivation.md",
     "Daily Digests/2026-02-09/github-trending.md",
@@ -257,7 +258,6 @@
     "Daily Digests/README.md",
     "Daily Digests/2026-02-09",
     "Daily Digests",
-    "_Projects/Automated Motivational Video Channel.md",
     "_Projects",
     "_Research",
     "_secure",
