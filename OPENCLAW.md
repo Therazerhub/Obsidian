@@ -1,0 +1,2 @@
+KImi k2.5 moonshot api key
+sk-kimi-jU0zUUkLIOTdqkFvx63UFC2z8fDbUe2MuNW8L4J8fgMqa2xzFNuMwgRCv1vu3YZe
