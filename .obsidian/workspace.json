@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OPENCLAW.md",
+                "file": "Projects/Lilly Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OPENCLAW"
+              "title": "Lilly Setup"
             }
           }
         ],
@@ -227,17 +227,20 @@
       "graph:Open graph view": false
     }
   },
-  "active": "acf50713f62619e0",
+  "active": "a867a40061747d8c",
   "lastOpenFiles": [
+    "Projects/Learn to Code with AI Agent Guide.md",
+    "Daily Notes/2026-02-11.md",
+    "Daily Notes/Fucked up day.md",
+    "_Research/Research - Integrate voice with AI influencer content.md",
+    "_Research/Research - 🧠 ComfyUI – Qwen TTS Setup Guide.md",
     "OPENCLAW.md",
     "Projects/Lilly Setup.md",
     "README.md",
-    "Projects/Learn to Code with AI Agent Guide.md",
     "Daily Notes/2026-02-09.md",
     "MEMORY.md",
     "Daily Digests/2026-02-09/motivation.md",
     "Daily Digests/2026-02-09/github-trending.md",
-    "Daily Notes/2026-02-11.md",
     "Projects/Local OpenClaw Setup Guide.md",
     "Projects/Nvidia Kimi K2 Unlimited 💀.md",
     "Projects/local ai Voice clone.md",
@@ -252,10 +255,7 @@
     "_Projects/Personal-Cron-Digests/AI-Twitter-Digest.md",
     "Daily Motivation.md",
     "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
-    "Projects/OpenClaw Monetization Guide.md",
-    "Projects/Obsidian iOS Sync Setup Guide.md",
     "_Projects/Personal-Cron-Digests",
-    "Daily Digests/README.md",
     "Daily Digests/2026-02-09",
     "Daily Digests",
     "_Projects",
