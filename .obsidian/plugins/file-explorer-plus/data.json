@@ -24,13 +24,6 @@
         "type": "DIRECTORIES",
         "pattern": "github-backup",
         "patternType": "STRICT"
-      },
-      {
-        "name": "",
-        "active": true,
-        "type": "FILES",
-        "pattern": "Tasks & Inbox.md",
-        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
