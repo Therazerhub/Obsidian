@@ -98,16 +98,17 @@ Get all the free ai models working for openclaw cause im broke as hell research 
 
 | Resource | Location |
 |----------|----------|
-| 🔐 Secrets & API Keys | `_secure/OpenClaw Secrets.md` |
-| 🔑 API Keys (alt) | `_secure/API Keys.md` |
-| 🤖 Lilly Setup | `Projects/Lilly Setup.md` |
-| 🎭 AI Influencer | `Projects/AI Influencer.md` |
-| 🎙️ Voice Clone | `Projects/local ai Voice clone.md` |
-| ⚙️ OpenClaw Config | `Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md` |
-| 🆓 Free Models | `Looking for Free AI models.md` |
-| 📁 Projects Folder | `Projects/` |
-| 📝 Daily Notes | `Daily Notes/` |
-| 📦 Archive | `_Archive/` |
+| 🔐 Secrets & API Keys | `../_secure/OpenClaw Secrets.md` |
+| 🔑 API Keys (alt) | `../_secure/API Keys.md` |
+| 🤖 Lilly Setup | `../01 Projects/Active/Lilly Setup.md` |
+| 🎭 AI Influencer | `../01 Projects/Active/` |
+| 🎙️ Voice Clone | `../01 Projects/Active/local ai Voice clone.md` |
+| ⚙️ OpenClaw Config | `../01 Projects/Active/OpenClaw NVIDIA + Kimi K2.5 Config.md` |
+| 🆓 Free Models | `../03 Resources/Research/AI Models - Free Options.md` |
+| 📁 Projects Folder | `../01 Projects/Active/` |
+| 📚 Research | `../03 Resources/Research/` |
+| 📦 Archive | `../04 Archive/` |
+| 🗺️ Vault Map | `../🗺️ Start Here.md` |
 
 ---
 

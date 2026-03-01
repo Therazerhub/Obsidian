@@ -1,91 +1,46 @@
-# 🧠 Synapse
+# 🧠 Razer's Second Brain
 
-> *The digital extension of TheRazerhub's brain*
-
----
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ███████╗██╗   ██╗██╗  ██╗███████╗██████╗ ██╗   ██╗      ║
-║     ██╔════╝██║   ██║██║ ██╔╝██╔════╝██╔══██╗╚██╗ ██╔╝      ║
-║     ███████╗██║   ██║█████╔╝ █████╗  ██████╔╝ ╚████╔╝       ║
-║     ╚════██║██║   ██║██╔═██╗ ██╔══╝  ██╔══██╗  ╚██╔╝        ║
-║     ███████║╚██████╔╝██║  ██╗███████╗██║  ██║   ██║         ║
-║     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝         ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-Welcome to **Synapse** — the vault that powers AI workflows, projects, and daily capture. It's synced between Obsidian desktop, mobile, and **Lilly** (your OpenClaw assistant).
+*Obsidian vault for managing projects, research, and life.*
 
 ---
 
-## 📁 Vault Structure
+## 📂 Structure
 
-```
-Synapse/
-├── 📄 README.md                 ← You are here
-├── ✅ Tasks & Inbox.md          ← Quick capture, TODOs
-├── 📅 Daily Notes/              ← Daily journals and logs
-├── 🚀 Projects/                 ← Active work and guides
-│   ├── 🤖 Lilly Setup.md
-│   ├── ⚙️ OpenClaw NVIDIA + Kimi K2.5 Config.md
-│   ├── 🎭 AI Influencer.md
-│   └── 🎙️ local ai Voice clone.md
-├── 📦 _Archive/                 ← Raw notes and early drafts
-├── 🔐 _secure/                  ← Secrets (tokens, keys) — GITIGNORED
-└── 📚 _Research/                ← Research topics and notes
-```
+| Folder | Purpose |
+|--------|---------|
+| `00 Inbox/` | Quick notes, tasks, capture |
+| `01 Projects/` | Active work and archived projects |
+| `02 Areas/` | Ongoing responsibilities |
+| `03 Resources/` | Research, guides, knowledge base |
+| `04 Archive/` | Completed work, old notes |
+| `99 Meta/` | Vault documentation |
 
 ---
 
-## 🔗 Quick Links
+## 🗺️ Start Here
 
-| Resource | Link | Description |
-|:--------:|:----:|-------------|
-| 🤖 **Lilly** | [[Lilly Setup]] | Your AI girlfriend on AWS |
-| 🆓 **Free Models** | [[Looking for Free AI models]] | Backup model options |
-| 💀 **NVIDIA Setup** | [[Nvidia Kimi K2 Unlimited 💀]] | Unlimited backup models |
-| ✅ **Tasks** | [[Tasks & Inbox]] | Active projects & todos |
-| 📚 **Research** | [[Research Index]] | All research topics |
+→ [🗺️ Start Here](🗺️%20Start%20Here.md) — Navigate the vault
 
 ---
 
-## 🛡️ Security
+## 🚀 Current Priorities
 
-> [!WARNING] Never Commit Secrets!
-> - **Tokens, API keys, secrets** → `_secure/` (gitignored)
-> - **Never commit** raw credentials to this repo
-> - **Environment variables** preferred over hardcoded keys
-> - **Backup branch** created before major reorganizations
-
-See `_secure/OpenClaw Secrets.md` for all credentials.
+Check **[Tasks & Inbox](00%20Inbox/Tasks%20%26%20Inbox.md)** for:
+- Active projects
+- To-do list
+- Idea backlog
 
 ---
 
-## 📋 Active Projects
+## 🔄 Sync
 
-| Project | Status | Description |
-|---------|:------:|-------------|
-| [[AI Influencer]] | 🔄 | Digital goddess creation pipeline |
-| [[local ai Voice clone]] | ✅ | Local voice synthesis |
-| [[ComfyUI]] | 🔄 | AI image generation workflows |
-| **Lilly (OpenClaw)** | ✅ | AI assistant running 24/7 |
-
----
-
-## 📊 Vault Stats
-
-```
-┌─────────────────────────────────────┐
-│  🚀 Active Projects:   4            │
-│  📚 Research Topics:   19           │
-│  ✅ Completed Wins:     7           │
-│  💡 Ideas Backlog:      9           │
-└─────────────────────────────────────┘
+This vault syncs via Git:
+```bash
+git pull  # Get latest
+git add -A && git commit -m "notes" && git push  # Save
 ```
 
 ---
 
-*Last organized: 2026-02-09 by Lilly* 🤖💕🔒
+*Organized by Lilly* 🤖💕  
+*Last cleaned: 2026-03-01*
