@@ -11,12 +11,14 @@
             "id": "6822284aa8264c2f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.4"
+                "file": "01 Projects/Personal-Cron-Digests/AI-Twitter-Digest.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "icon": "lucide-file",
+              "title": "AI-Twitter-Digest"
             }
           }
         ]
@@ -212,10 +214,11 @@
   },
   "active": "6822284aa8264c2f",
   "lastOpenFiles": [
+    "01 Projects/Active/Learn to Code with AI Agent Guide.md",
+    "00 Inbox/Tasks & Inbox.md",
     "_Projects/Personal-Cron-Digests/Hacker-News-Digest.md",
     "_Projects/Personal-Cron-Digests/GitHub-Trending-Digest.md",
     "_Projects/Personal-Cron-Digests/Daily-Motivation.md",
-    "00 Inbox/Tasks & Inbox.md",
     "OPENCLAW.md",
     "99 Meta/MEMORY.md",
     "99 Meta",
@@ -240,7 +243,6 @@
     "04 Archive/clwadbot.md",
     "04 Archive",
     "03 Resources/Research/Research - Explore open source code contributions.md",
-    "03 Resources/Research/Research - 🧠 ComfyUI – Qwen TTS Setup Guide.md",
     "03 Resources/Research",
     "03 Resources/Guides",
     "03 Resources",
