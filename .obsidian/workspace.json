@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Projects/Personal-Cron-Digests/GitHub-Trending-Digest.md",
+                "file": "99 Meta/MEMORY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub-Trending-Digest"
+              "title": "MEMORY"
             }
           }
         ]
@@ -214,6 +214,7 @@
   },
   "active": "6822284aa8264c2f",
   "lastOpenFiles": [
+    "01 Projects/Personal-Cron-Digests/GitHub-Trending-Digest.md",
     "01 Projects/Personal-Cron-Digests/Daily-Motivation.md",
     "01 Projects/Personal-Cron-Digests/AI-Twitter-Digest.md",
     "01 Projects/Active/Learn to Code with AI Agent Guide.md",
@@ -241,7 +242,6 @@
     "04 Archive/Git Vault Setup (Template).md",
     "04 Archive/fond something.md",
     "04 Archive/Daily Notes",
-    "04 Archive/ComfyUI.md",
     "04 Archive",
     "03 Resources/Research",
     "03 Resources/Guides",
