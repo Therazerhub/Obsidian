@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "acf50713f62619e0",
+            "id": "a867a40061747d8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Learn to Code with AI Agent Guide.md",
+                "file": "Projects/Lilly Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn to Code with AI Agent Guide"
+              "title": "Lilly Setup"
             }
           }
         ],
@@ -48,6 +48,7 @@
       {
         "id": "5dadd4e62246d304",
         "type": "tabs",
+        "dimension": 63.30749354005168,
         "children": [
           {
             "id": "65df3a0b6f3aa4e0",
@@ -87,6 +88,23 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e9b8d4cbf0621b87",
+        "type": "tabs",
+        "dimension": 36.69250645994831,
+        "children": [
+          {
+            "id": "acf50713f62619e0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -213,13 +231,21 @@
   "lastOpenFiles": [
     "Projects/Lilly Setup.md",
     "Projects/Local OpenClaw Setup Guide.md",
-    "Projects/Nvidia Kimi K2 Unlimited 💀.md",
     "Projects/local ai Voice clone.md",
+    "README.md",
     "Arch Linux Setup.md",
+    "OPENCLAW.md",
+    "MEMORY.md",
+    "Projects/Nvidia Kimi K2 Unlimited 💀.md",
+    "Projects/Learn to Code with AI Agent Guide.md",
+    "Daily Notes/2026-02-11.md",
+    "Daily Notes/Fucked up day.md",
+    "_Research/Research - Integrate voice with AI influencer content.md",
+    "_Research/Research - 🧠 ComfyUI – Qwen TTS Setup Guide.md",
     "Daily Notes/2026-02-09.md",
-    "_Research/Research - Voice & Video Pipeline.md",
     "Daily Digests/2026-02-09/motivation.md",
     "Daily Digests/2026-02-09/github-trending.md",
+    "_Research/Research - Voice & Video Pipeline.md",
     "_Projects/Personal-Cron-Digests/YC-Startup-Spotlight.md",
     "_Projects/Personal-Cron-Digests/README.md",
     "_Projects/Personal-Cron-Digests/Product-Hunt-Daily-Picks.md",
@@ -229,17 +255,9 @@
     "_Projects/Personal-Cron-Digests/AI-Twitter-Digest.md",
     "Daily Motivation.md",
     "Projects/OpenClaw NVIDIA + Kimi K2.5 Config.md",
-    "Projects/OpenClaw Monetization Guide.md",
-    "Projects/Obsidian iOS Sync Setup Guide.md",
     "_Projects/Personal-Cron-Digests",
-    "Projects/Learn to Code with AI Agent Guide.md",
-    "Daily Digests/README.md",
     "Daily Digests/2026-02-09",
     "Daily Digests",
-    "_Projects/Automated Motivational Video Channel.md",
-    "_Projects/Motivational Video Prompts.md",
-    "Motivational Video Guide.md",
-    "The Complete Guide to Building Mission Control How We Built an AI Agent Squad.md",
     "_Projects",
     "_Research",
     "_secure",
