@@ -11,10 +11,12 @@
             "id": "6822284aa8264c2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ]
@@ -208,8 +210,13 @@
       "graph:Open graph view": false
     }
   },
-  "active": "65df3a0b6f3aa4e0",
+  "active": "6822284aa8264c2f",
   "lastOpenFiles": [
+    "_Projects/Personal-Cron-Digests/Hacker-News-Digest.md",
+    "_Projects/Personal-Cron-Digests/GitHub-Trending-Digest.md",
+    "_Projects/Personal-Cron-Digests/Daily-Motivation.md",
+    "00 Inbox/Tasks & Inbox.md",
+    "OPENCLAW.md",
     "99 Meta/MEMORY.md",
     "99 Meta",
     "04 Archive/Daily Notes/2026-02-11.md",
@@ -234,11 +241,6 @@
     "04 Archive",
     "03 Resources/Research/Research - Explore open source code contributions.md",
     "03 Resources/Research/Research - 🧠 ComfyUI – Qwen TTS Setup Guide.md",
-    "03 Resources/Research/Research - Voice & Video Pipeline.md",
-    "03 Resources/Research/Research - Train custom LoRA (`rzr_influencer_v1`).md",
-    "03 Resources/Research/Research - Integrate voice with AI influencer content.md",
-    "03 Resources/Research/Research - Or with deploy key.md",
-    "03 Resources/Research/Research - Setup on chosen hardware.md",
     "03 Resources/Research",
     "03 Resources/Guides",
     "03 Resources",
